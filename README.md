@@ -23,3 +23,5 @@ I love the idea of this project. It took me a sec to figure out this morning wha
 
 ## Progress:
 *Working through hackerRank for about 2 hours. Little confused on formatting of the site. I'll present code that will pass sample test cases but I cant find the additional test cases it asks me to pass. Moving on to ember.
+
+*Working through ember weekend homework, moving on to ember week work.
