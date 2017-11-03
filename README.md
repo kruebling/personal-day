@@ -7,14 +7,19 @@ I love the idea of this project. It took me a sec to figure out this morning wha
 -Building games using Unity and C#
 
 ## Projects I've Completed Outside of Class
--Reddit Bot
--Slack Bot
--Roll_A_Ball
+-Reddit Bot (Node.js)
+-Slack Bot (Go)
+-Roll_A_Ball (C#)
+-Linear Regression Model (Python)
 
 ## Goals:
+-Update Resume
+-HackerRank Progress
 -Technical Interview Practice
 -Build a Project using the Ember Framework
--Free Code Camp progress (Python)
--Start Udemy Go Course
--HackerRank Progress
+-Free Code Camp progress (Javascript)
+-Continue Machine Learning Course
 -Build a second Slack bot to utilize in our classes channel
+
+## Progress:
+*Working through hackerRank for about 2 hours. Little confused on formatting of the site. I'll present code that will pass sample test cases but I cant find the additional test cases it asks me to pass. Moving on to ember.
